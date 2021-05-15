@@ -2,14 +2,14 @@ File number 1 is 00_PythonIntroduction.ipynb
 File number 2 is 01_IntroductionToNumPy.ipynb 
 File number 3 is 02_GuideToMatplotlib.ipynb 
 File number 4 is 03_AdditionalPythonTutorial.ipynb 
-File number 5 is CopyOfExcelDataForPython.npy 
-File number 6 is ExcelExample.PNG 
-File number 7 is filename.png 
-File number 8 is g149novickB.npy 
-File number 9 is HIVseries.npy 
-File number 10 is OutputListOfFiles.txt 
-File number 11 is PythonTutorialExcelData.csv 
-File number 12 is README.md 
-File number 13 is saved_dictionary.p 
-File number 14 is Short Introduction to Image Manipulation and PIV.ipynb 
+File number 5 is 04_Short Introduction to Image Manipulation and PIV.ipynb 
+File number 6 is CopyOfExcelDataForPython.npy 
+File number 7 is ExcelExample.PNG 
+File number 8 is filename.png 
+File number 9 is g149novickB.npy 
+File number 10 is HIVseries.npy 
+File number 11 is OutputListOfFiles.txt 
+File number 12 is PythonTutorialExcelData.csv 
+File number 13 is README.md 
+File number 14 is saved_dictionary.p 
 File number 15 is test.svg 
