@@ -1,0 +1,31 @@
+Analysis_parameters:
+  binning: false
+  last_lag_time: 600
+  number_lag_times: 40
+DataDirectory: Y:\Ryle\Data\2021-08-19\
+FileName: images_nobin_40x_128x128_8bit.tif
+Fitting_parameters:
+  Amplitude:
+  - 1e2
+  - 1
+  - 1e6
+  Auto_update_good_q_range: true
+  Background:
+  - 2.5e4
+  - 0
+  - 1e7
+  Good_q_range:
+  - 5
+  - 20
+  StretchingExp:
+  - 1.0
+  - 0.5
+  - 1.1
+  Tau:
+  - 1.0
+  - 0.001
+  - 10
+  model: DDM Matrix - Single Exponential
+Metadata:
+  frame_rate: 41.7
+  pixel_size: 0.242
